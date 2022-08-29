@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github link](https://github.com/electricman07/product-preview-card-component-main)
-- Live Site URL: [live site link](https://your-live-site-url.com)
+- Live Site URL: [live site link](https://product-preview-card-component-electricman07.vercel.app)
 
 ## My process
 
