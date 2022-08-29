@@ -12,7 +12,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -51,5 +50,5 @@ In this project I learned how to center the smaller price vertically to the larg
 ## Author
 
 - Website - [Glen Popowich](https://github.com/electricman07)
-- Frontend Mentor - [@yelectricman07](https://www.frontendmentor.io/profile/electricman07)
+- Frontend Mentor - [@electricman07](https://www.frontendmentor.io/profile/electricman07)
 - Twitter - [@popowich_glen](https://www.twitter.com/popowich_glen)
